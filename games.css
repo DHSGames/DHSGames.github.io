@@ -1,0 +1,239 @@
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-image: url("wsss.jpeg");
+  background-position: center center;
+  background-size: cover;
+  height: 80px;
+  width: 100%;
+}
+
+#header-text {
+  margin: 0 auto;
+  position: relative;
+  background-color: rgba(169,169,169,.8);
+  text-align: center;
+  top: 20%;
+  width: 45%;
+}
+
+#header-text h1{
+  color: #FFF;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 40px;
+  margin: 0;
+}
+
+#header-text h2{
+  color: #FFF;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  margin: 0;
+}
+
+#anti-text h3{
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 450;
+  font-size: 30px;
+}
+
+h1 {
+  color: #FFF;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  line-height: 60px;
+  margin: 0;
+}
+
+h2 {
+  color: #FFF;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 100;
+}
+
+h3 {
+  color: #FFF;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 10px 0px;
+  text-align: center;
+}
+
+h4 {
+  color: #CCC;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 24px;
+  margin: 0 auto;
+  text-align: center;
+  width: 60%;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+  margin: 0px 0px;
+  color: white;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+}
+
+li {
+  border-bottom: 1px solid #eeeeee;
+  list-style: none;
+  margin: 40px 0px;
+  padding-bottom: 60px;
+  text-align: center;
+}
+
+.partner {
+  padding: 20px;
+  text-align: center;
+  margin: 10px auto;
+}
+
+.partner img {
+  position: relative;
+  top: 6px;
+}
+
+.aa-logo {
+  padding-left: 6px;
+}
+
+.main {
+  background: url("wss.jpeg");
+  margin: 0px;
+  padding: 10px;
+}
+
+.value-props {
+  margin: 40px auto;
+  width: 60%;
+}
+
+.prop {
+  border: 1px solid #FFF;
+  padding: 40px 0px;
+  margin: 5px 0px;
+  text-align: center;
+}
+
+.prop h2 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 24px;
+}
+
+#More h3{
+  font-size: 18px;
+  color: #FFF;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 5px;
+  margin: 60px 0px;
+}
+
+#More h4{
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  line-height: 25px;
+  margin: 0 auto;
+  background-color: rgba(169,169,169,.8);
+  text-align: center;
+  width: 20%;
+}
+
+#align {
+  padding: 0px;
+  text-align: center;
+  margin: 0px;
+}
+
+#align h2 {
+  font-size: 35px;
+  font-weight: 500;
+}
+
+#shit {
+    border-bottom: 1px solid #eeeeee;
+    list-style: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    color: blue;
+    font-weight: 800;
+    font-size: 30px;
+  }
+
+ #a h3{
+   text-align: center;
+   margin: 5px auto;
+ }
+ #b a{
+   border-bottom: 1px solid #eeeeee;
+ }
+
+ .topnav {
+    background-color: #A9A9A9;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding: 25px 50px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.topnav a:hover {
+    background-color: black;
+    color: white;
+}
+
+.topnav a.active {
+    background-color: black;
+    color: white;
+}
+
+.game{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 69%;
+}
